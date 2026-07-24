@@ -30,3 +30,12 @@ else:
         for i in rangel (1, 11):
             soma += i
         print ("soma de 1 a 10: {soma}")
+
+
+numero = int(input("digite um numero :"))
+if numero > 0: 
+    print ("o numero é positivo. ")
+elif numero < 0: 
+    print ("o número é negativo. ")
+else: 
+    print("O número é zero. ")
