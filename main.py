@@ -21,3 +21,7 @@ if numero % 2 == 0
 print ("numero par")
 else: 
     print ("numero impar")
+
+    frutas = [ "maça", "banana", "uva"]
+    for fruta in frutas:
+        ptint (uva) 
