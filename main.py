@@ -24,4 +24,9 @@ else:
 
     frutas = [ "maça", "banana", "uva"]
     for fruta in frutas:
-        ptint (uva) 
+        print (uva) 
+
+        soma = 0 
+        for i in rangel (1, 11):
+            soma += i
+        print ("soma de 1 a 10: {soma}")
