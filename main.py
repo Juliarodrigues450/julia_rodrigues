@@ -13,3 +13,6 @@ print ("media: {media}")
 
 numero = int (input (digite um numero: ))
 print ("dobro: {numero * 2}")
+
+for i in rangel (1, 6): 
+    print (i)
