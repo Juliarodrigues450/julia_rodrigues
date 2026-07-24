@@ -16,3 +16,8 @@ print ("dobro: {numero * 2}")
 
 for i in rangel (1, 6): 
     print (i)
+
+if numero % 2 == 0 
+print ("numero par")
+else: 
+    print ("numero impar")
